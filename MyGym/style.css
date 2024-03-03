@@ -52,8 +52,12 @@ body {
 
 #nav-part1 {
     /* background-color: RED; */
-    height: 8px;
+    height: 70Px;
     overflow: hidden;
+    font-size: 30px;
+    font-family: futura;
+    text-shadow: #000;
+    color: black;
 }
 
 #nav-part1 svg {
@@ -297,6 +301,7 @@ body {
         flex-direction: column;
         justify-content: space-between;
         /* background-color: red; */
+        text-align: center;
     }
 
     #page2 .elem {
@@ -305,6 +310,10 @@ body {
         /* background-color: red; */
         overflow: hidden;
         margin-bottom: 3vw;
+        font-size: 25px;
+        font-family: futura;
+        text-align: center
+        ;
     }
 
     #page2 .elem .dets {
@@ -316,6 +325,10 @@ body {
         background-color: rgb(229, 156, 186);
 
     }
+    #h3{
+        text-align: center;
+        font-family: futura;
+    }
 
     #page3 {
         min-height: 120vh;
@@ -325,6 +338,7 @@ body {
         align-items: center;
         justify-content: space-evenly;
         flex-wrap: wrap;
+        text-align: center;
     }
 
     .child {
