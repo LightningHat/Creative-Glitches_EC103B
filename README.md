@@ -23,7 +23,7 @@ It is a Gym Website made with HTML CSS & JS 😊
 ## 😒Personal Training 💪💪💪
 
 
-###Our personal training programs are tailored to your individual goals, whether you're looking to lose weight, build muscle, or improve overall fitness.
+### 🤞 Our personal training programs are tailored to your individual goals, whether you're looking to lose weight, build muscle, or improve overall fitness.
 
 ## 👌 Connect with Us!
 ### “A dream you dream alone is only a dream. A dream you dream together is reality.”
