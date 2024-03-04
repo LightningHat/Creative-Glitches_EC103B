@@ -181,6 +181,13 @@ body {
 
 }
 
+#page2 h3{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 5%;
+
+}
+
 #page3 {
     min-height: 120vh;
     width: 100%;
